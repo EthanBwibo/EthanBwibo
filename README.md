@@ -4,7 +4,7 @@
     Let's connect on LinkedIn @ethan-bwibo!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFA500&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,#FFD700&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFD700&width=500&lines=Hello%2C+I'm+Ethan+Bwibo+%F0%9F%91%8B;Software+Engineer+%7C+Nairobi%2C+Kenya;AI+%26+Full-Stack+Developer" alt="Typing SVG"/>
@@ -38,10 +38,6 @@
 
 <img height="170" src="https://streak-stats.demolab.com?user=EthanBwibo&theme=transparent&hide_border=true&stroke=FFD700&ring=FFA500&fire=FFA500&currStreakLabel=FFD700&dates=FFA500&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=EthanBwibo&theme=gold&no-frame=true&margin-w=6&column=3&title=Commits,Repositories,Stars" alt="GitHub Trophies"/>
-
-[![EthanBwibo's GitHub Trophies](https://vercel.app)](https://github.com)
-
 
 </div>
 
@@ -70,7 +66,7 @@
 > [!IMPORTANT]
 > <a href="https://ethan-bwibo.vercel.app/" target="_blank">View my Portfolio</a> &nbsp;|&nbsp; <a href="mailto:enbwibo@gmail.com">Get in touch</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,FFD700&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,ffd700&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ✨
