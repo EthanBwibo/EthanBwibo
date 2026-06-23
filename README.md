@@ -13,17 +13,16 @@
 <!--
     Terminal GIF showing a quick "about me" in CLI style.
     Create yours at https://www.terminalgif.com
-    Suggested content below — use dark bg (#0a0a0a) + gold text (#FFD700)
 -->
 <div>
     <img src="./assets/about_ethan.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,kotlin,androidstudio,postgres,supabase,mongodb,firebase,figma,git,github,vercel,gcp,docker,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,kotlin,androidstudio,supabase,mongodb,firebase,figma,git,github,vercel,html,css,tailwind)](https://skillicons.dev)
 
 ### Currently learning
-[![Learning](https://skillicons.dev/icons?i=kubernetes,rust,tensorflow)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,ai)](https://skillicons.dev)
 
 ### GitHub Stats
 
@@ -40,6 +39,9 @@
 <img height="170" src="https://streak-stats.demolab.com?user=EthanBwibo&theme=transparent&hide_border=true&stroke=FFD700&ring=FFA500&fire=FFA500&currStreakLabel=FFD700&dates=FFA500&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak"/>
 &nbsp;&nbsp;
 <img height="170" src="https://github-profile-trophy.vercel.app/?username=EthanBwibo&theme=gold&no-frame=true&margin-w=6&column=3&title=Commits,Repositories,Stars" alt="GitHub Trophies"/>
+
+[![EthanBwibo's GitHub Trophies](https://vercel.app)](https://github.com)
+
 
 </div>
 
