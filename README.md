@@ -141,7 +141,13 @@ Native Android app built with **Kotlin, Android SDK, and Firebase** — connecti
 
 <img height="180" src="https://streak-stats.demolab.com?user=EthanBwibo&theme=transparent&hide_border=true&stroke=2D9CDB&ring=2D9CDB&fire=FF6B35&currStreakLabel=2D9CDB&dates=58A6FF&sideLabels=2D9CDB&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=EthanBwibo&theme=transparent&no-bg=true&no-frame=true&margin-w=6&column=3&title=Commits,Repositories,Stars" alt="GitHub Trophies" />
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=EthanBwibo&theme=algolia&no-frame=true&margin-w=6&column=3&title=Commits,Repositories,Stars" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanBwibo&bg_color=00000000&color=58A6FF&line=2D9CDB&point=ffffff&area=true&area_color=2D9CDB&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
