@@ -106,9 +106,9 @@ Combines a **Capacitated DVRPTW Genetic Algorithm** with **Random Forest Regress
 
 I'm always open to interesting conversations — whether it's a project collaboration, an opportunity, or just a chat about AI, mobile dev, or Kenya's tech scene.
 
-📧 **[your.email@example.com](mailto:enbwibo@gmail.com)**
-🌐 **[your-portfolio.com](https://ethan-bwibo.vercel.app/)**
-💼 **[linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-bwibo/)**
+📧 **[enbwibo@gmail.com](mailto:enbwibo@gmail.com)**
+🌐 **[ethan-bwibo.vercel.app](https://ethan-bwibo.vercel.app/)**
+💼 **[linkedin.com/in/ethan-bwibo](https://www.linkedin.com/in/ethan-bwibo/)**
 
 ---
 
