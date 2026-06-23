@@ -50,15 +50,15 @@
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/ethan-bwibo/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55"/>
     </a>
     &nbsp;
     <a href="https://ethan-bwibo.vercel.app/">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="55" height="55"/>
     </a>
     &nbsp;
     <a href="mailto:enbwibo@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="55" height="55"/>
     </a>
 </div>
 
@@ -66,7 +66,7 @@
 > [!IMPORTANT]
 > <a href="https://ethan-bwibo.vercel.app/" target="_blank">View my Portfolio</a> &nbsp;|&nbsp; <a href="mailto:enbwibo@gmail.com">Get in touch</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ✨
