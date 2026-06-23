@@ -5,9 +5,9 @@
 
 *Building AI-powered systems and full-stack solutions for real-world impact*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-bwibo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ethan-bwibo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:enbwibo@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I'm a final-year Software Engineering student at **Strathmore University**, passionate about building systems that solve meaningful problems at scale. My work sits at the intersection of **AI/RAG pipelines**, **full-stack web development**, and **optimization algorithms** — often applied to Kenya's unique public-sector and enterprise challenges.
 
-- 🤖 Built a **RAG-powered support chatbot** for [MOHI](https://github.com/ethanbwibo-Strath/mohi-chatbot), reducing response time for non-profit beneficiary queries
+- 🤖 Built a [**RAG-powered support chatbot**](https://github.com/EthanBwibo/mohi-chatbot) for MOHI, reducing response time for non-profit beneficiary queries
 - 🏛️ Led an **AI chatbot initiative pitch** for the Public Service Commission of Kenya, covering solution architecture, data governance, and citizen-centric design
 - ✈️ Developing my **FYP** — a crew ground transport optimization system for Kenya Airways using Genetic Algorithms, Random Forest Regression, and offline-first Android architecture
 - 🌍 Currently based in Nairobi, open to remote and hybrid opportunities
@@ -53,7 +53,7 @@ I'm a final-year Software Engineering student at **Strathmore University**, pass
 
 ## 🔬 Featured Projects
 
-### 🧠 [MOHI Support Chatbot](https://github.com/ethanbwibo-Strath/mohi-chatbot)
+### 🧠 [MOHI Support Chatbot](https://github.com/EthanBwibo/mohi-chatbot)
 > RAG-powered conversational AI for a non-profit organization
 
 Built using LangChain, FastAPI, and a vector database to enable beneficiaries and staff to query institutional knowledge in natural language. Reduced manual support overhead significantly.
@@ -71,14 +71,14 @@ Combines a **Capacitated DVRPTW Genetic Algorithm** with **Random Forest Regress
 
 ---
 
-### 🌐 [Google Workspace Automation Suite](https://github.com/ethanbwibo-Strath/Google-Workspace-Automation-Suite)
+### 🌐 [Google Workspace Automation Suite](https://github.com/EthanBwibo/Google-Workspace-Automation-Suite)
 > Workflow automation tools across Google Drive, Sheets, and Docs
 
 `JavaScript` `Google Apps Script` `REST APIs`
 
 ---
 
-### 🎨 [Portfolio Website v2](https://github.com/ethanbwibo-Strath/Portfolio-Website-v2)
+### 🎨 [Portfolio Website v2](https://github.com/EthanBwibo/Portfolio-Website-v2)
 > Personal portfolio — designed and built from scratch
 
 `React` `CSS` `Responsive Design`
@@ -89,14 +89,14 @@ Combines a **Capacitated DVRPTW Genetic Algorithm** with **Random Forest Regress
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ethanbwibo-Strath&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanbwibo-Strath&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=EthanBwibo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBwibo&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ethanbwibo-Strath&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EthanBwibo&theme=default&hide_border=true)
 
 </div>
 
@@ -106,9 +106,9 @@ Combines a **Capacitated DVRPTW Genetic Algorithm** with **Random Forest Regress
 
 I'm always open to interesting conversations — whether it's a project collaboration, an opportunity, or just a chat about AI, mobile dev, or Kenya's tech scene.
 
-📧 **[your.email@example.com](mailto:your.email@example.com)**
-🌐 **[your-portfolio.com](https://your-portfolio.com)**
-💼 **[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)**
+📧 **[your.email@example.com](mailto:enbwibo@gmail.com)**
+🌐 **[your-portfolio.com](https://ethan-bwibo.vercel.app/)**
+💼 **[linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-bwibo/)**
 
 ---
 
