@@ -66,7 +66,7 @@
 > [!IMPORTANT]
 > <a href="https://ethan-bwibo.vercel.app/" target="_blank">View my Portfolio</a> &nbsp;|&nbsp; <a href="mailto:enbwibo@gmail.com">Get in touch</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,ffd700&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ✨
